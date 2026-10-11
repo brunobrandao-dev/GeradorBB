@@ -1,0 +1,9 @@
+faster-whisper
+pillow
+scipy
+customtkinter>=5.2.0
+supabase>=2.0.0
+cryptography
+google-genai
+kokoro
+soundfile

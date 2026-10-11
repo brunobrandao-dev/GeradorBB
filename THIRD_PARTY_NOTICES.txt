@@ -1,0 +1,218 @@
+================================================================================
+  GeradorBB — Avisos de Licença de Componentes de Terceiros
+================================================================================
+
+Este software utiliza componentes de código aberto listados abaixo.
+As licenças originais são reproduzidas conforme exigido pelos respectivos autores.
+
+--------------------------------------------------------------------------------
+1. FFmpeg
+   Versão: release-essentials (https://www.gyan.dev/ffmpeg/builds/)
+   Licença: GNU Lesser General Public License v2.1 (LGPL v2.1)
+   Site: https://ffmpeg.org/
+
+   O FFmpeg é distribuído como um executável separado e não foi modificado.
+   Conforme exigido pela LGPL, o usuário tem o direito de substituir o
+   executável do FFmpeg por uma versão diferente compatível.
+
+   O texto completo da LGPL v2.1 está disponível em:
+   https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+--------------------------------------------------------------------------------
+2. Faster Whisper
+   Repositório: https://github.com/SYSTRAN/faster-whisper
+   Licença: MIT License
+
+   Copyright (c) 2023 SYSTRAN
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+--------------------------------------------------------------------------------
+3. Whisper (modelo de IA — OpenAI)
+   Repositório: https://github.com/openai/whisper
+   Licença: MIT License
+
+   Copyright (c) 2022 OpenAI
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+--------------------------------------------------------------------------------
+4. CTranslate2
+   Repositório: https://github.com/OpenNMT/CTranslate2
+   Licença: MIT License
+
+   Copyright (c) 2018 OpenNMT
+
+   (Mesmo texto MIT acima se aplica.)
+
+--------------------------------------------------------------------------------
+5. CustomTkinter
+   Repositório: https://github.com/TomSchimansky/CustomTkinter
+   Licença: MIT License
+
+   Copyright (c) 2023 Tom Schimansky
+
+   (Mesmo texto MIT acima se aplica.)
+
+--------------------------------------------------------------------------------
+6. Pillow (PIL)
+   Repositório: https://github.com/python-pillow/Pillow
+   Licença: HPND License (Historical Permission Notice and Disclaimer)
+
+   The Python Imaging Library (PIL) is
+
+       Copyright (c) 1997-2011 by Secret Labs AB
+       Copyright (c) 1995-2011 by Fredrik Lundh
+
+   Pillow is the friendly PIL fork. It is
+
+       Copyright (c) 2010-2023 by Jeffrey A. Clark (Alex) and contributors
+
+   Like PIL, Pillow is licensed under the open source HPND License:
+
+   By obtaining, using, and/or copying this software and/or its associated
+   documentation, you agree that you have read, understood, and will comply
+   with the following terms and conditions:
+
+   Permission to use, copy, modify, and distribute this software and its
+   associated documentation for any purpose and without fee is hereby granted,
+   provided that the above copyright notice appears in all copies, and that
+   both that copyright notice and this permission notice appear in supporting
+   documentation, and that the name of Secret Labs AB or the author not be
+   used in advertising or publicity pertaining to distribution of the software
+   without specific, written prior permission.
+
+--------------------------------------------------------------------------------
+7. SciPy
+   Repositório: https://github.com/scipy/scipy
+   Licença: BSD 3-Clause License
+
+   Copyright (c) 2001-2023 SciPy Developers. All rights reserved.
+
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions are met:
+   1. Redistributions of source code must retain the above copyright notice,
+      this list of conditions and the following disclaimer.
+   2. Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+      and/or other materials provided with the distribution.
+   3. Neither the name of the copyright holder nor the names of its contributors
+      may be used to endorse or promote products derived from this software
+      without specific prior written permission.
+
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+   AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+   IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+   DISCLAIMED.
+
+--------------------------------------------------------------------------------
+8. python-supabase
+   Repositório: https://github.com/supabase/supabase-py
+   Licença: MIT License
+
+   Copyright (c) 2020 supabase
+
+   (Mesmo texto MIT acima se aplica.)
+
+--------------------------------------------------------------------------------
+9. huggingface_hub
+   Repositório: https://github.com/huggingface/huggingface_hub
+   Licença: Apache License 2.0
+
+   Copyright 2022 The HuggingFace Team
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at:
+   https://www.apache.org/licenses/LICENSE-2.0
+
+--------------------------------------------------------------------------------
+10. Google Generative AI SDK (google-generativeai)
+    Repositório: https://github.com/google/generative-ai-python
+    Licença: Apache License 2.0
+
+    Copyright 2023 Google LLC
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at:
+    https://www.apache.org/licenses/LICENSE-2.0
+
+--------------------------------------------------------------------------------
+11. cryptography
+    Repositório: https://github.com/pyca/cryptography
+    Licença: Apache License 2.0 e BSD 3-Clause (dual license)
+
+    Copyright (c) Individual contributors
+
+    Licensed under the Apache License, Version 2.0 and the BSD License.
+    Full license text: https://github.com/pyca/cryptography/blob/main/LICENSE
+
+--------------------------------------------------------------------------------
+12. kokoro
+    Repositório: https://github.com/hexgrad/kokoro
+    Licença: Apache License 2.0
+
+    Licensed under the Apache License, Version 2.0.
+
+--------------------------------------------------------------------------------
+13. soundfile
+    Repositório: https://github.com/bastibe/python-soundfile
+    Licença: BSD 3-Clause License
+
+    Copyright (c) 2013, Bastian Bechtold
+    All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are met:
+    1. Redistributions of source code must retain the above copyright notice,
+       this list of conditions and the following disclaimer.
+    2. Redistributions in binary form must reproduce the above copyright notice,
+       this list of conditions and the following disclaimer in the documentation
+       and/or other materials provided with the distribution.
+    3. Neither the name of the copyright holder nor the names of its contributors
+       may be used to endorse or promote products derived from this software
+       without specific prior written permission.
+
+================================================================================
+  Observação
+================================================================================
+
+Os modelos de IA utilizados (Whisper) são baixados diretamente de seus
+repositórios oficiais na internet durante a primeira execução do software
+e ficam armazenados localmente no computador do usuário.
+
+Para dúvidas sobre licenças, entre em contato com o suporte do GeradorBB.
+================================================================================

@@ -1,3 +1,22 @@
-*
-!README.md
-!.gitignore
+# --- Dados do usuário ---
+canais/
+banco/
+cache/
+videos/
+session.json
+config_app.json
+config_ia.enc
+credenciais.json
+.inicializado
+preview_log.txt
+pyarmor.bug.log
+
+# --- Build / distribuição ---
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Dev tools ---
+.claude/

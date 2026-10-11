@@ -1,0 +1,22 @@
+{
+  "_comentario": "Configurações do mascote Ranka. Edite sem mexer no código.",
+
+  "ativo": true,
+
+  "_layout": "Posição e tamanho na tela",
+  "largura_pct":      0.22,
+  "lado":             "esquerda",
+  "margem_esquerda":  20,
+  "margem_direita":   20,
+  "margem_fundo":     0,
+
+  "_boca": "Sincronização de boca com o áudio",
+  "volume_limite":    0.03,
+  "pausa_min_s":      0.09,
+
+  "_movimento": "Bob contínuo e pulo ao trocar de item",
+  "bob_amplitude_px":  4,
+  "bob_hz":            0.7,
+  "pulo_amplitude_px": 18,
+  "pulo_duracao_s":    0.30
+}

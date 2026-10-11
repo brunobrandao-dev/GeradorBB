@@ -1,0 +1,52 @@
+{
+  "_comentario": "Configurações do personagem e objetos. Edite sem mexer no código Python.",
+
+  "ativo": true,
+
+  "_layout": "Posição e tamanho do personagem na tela. lado: esquerda ou direita",
+  "largura_pct":    0.22,
+  "lado":           "esquerda",
+  "margem_direita": 20,
+  "margem_esquerda": 20,
+  "margem_fundo":   40,
+
+  "_visual": "Contorno branco + sombra projetada para destacar em fundos escuros",
+  "contorno_px":    0,
+  "contorno_cor":   [255, 255, 255],
+  "sombra_ativa":   false,
+  "sombra_offset_x": 5,
+  "sombra_offset_y": 8,
+  "sombra_blur":    6,
+  "sombra_alpha":   0.65,
+
+  "_poses": "acenando_inicial: false = sem acenando. apontando_ativo: false = sem apontando nos itens",
+  "acenando_inicial": false,
+  "apontando_ativo": true,
+
+  "_bob": "Balanço vertical quando não há clipe tocando (freeze frame)",
+  "bob_amplitude_px": 3,
+  "bob_hz":           0.5,
+
+  "_chromakey": "Cor do fundo verde nos clipes MP4. Ajuste similaridade/suavizacao se sobrar borda verde",
+  "chromakey_cor":          "0x1AE811",
+  "chromakey_similaridade": 0.12,
+  "chromakey_suavizacao":   0.08,
+  "despill_ativo":          true,
+  "despill_fator":          0.8,
+
+  "_transicoes": "Crossfade entre clipes e fade de saída quando o clipe é cortado",
+  "crossfade_s":  0.15,
+  "fade_saida_s": 0.20,
+
+  "_boca": "Troca automática falando↔parado por volume. pausa_min_s: silêncio mínimo para mudar para parado",
+  "volume_limite_boca": 0.03,
+  "pausa_min_s":        0.30,
+
+  "_objetos": "Banco de objetos animados (objetos.py)",
+  "objetos_ativo": true,
+  "objetos_duracao_s": 1.5,
+  "objetos_intervalo_min_s": 4.0,
+  "objetos_largura_px": 200,
+  "objetos_posicao_x": 40,
+  "objetos_posicao_y_pct": 0.45
+}

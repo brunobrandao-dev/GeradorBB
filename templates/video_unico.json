@@ -1,0 +1,14 @@
+{
+  "id": "video_unico",
+  "nome": "Vídeo Único",
+  "icone": "🎬",
+  "descricao": "Um vídeo contínuo. Coloque suas cenas na pasta e pronto.",
+  "padrao": true,
+  "abertura": false,
+  "fechamento": false,
+  "tipo": "livre",
+  "n_itens": 10,
+  "ordem": "decrescente",
+  "secoes": [],
+  "criado_em": "2026-01-01T00:00:00"
+}

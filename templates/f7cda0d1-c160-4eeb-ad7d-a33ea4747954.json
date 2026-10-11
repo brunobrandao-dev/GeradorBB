@@ -1,0 +1,14 @@
+{
+  "id": "f7cda0d1-c160-4eeb-ad7d-a33ea4747954",
+  "nome": "Doramas",
+  "icone": "🎬",
+  "descricao": "",
+  "padrao": false,
+  "abertura": true,
+  "fechamento": true,
+  "tipo": "numerado",
+  "n_itens": 10,
+  "ordem": "decrescente",
+  "secoes": [],
+  "criado_em": "2026-10-09T00:07:18"
+}
